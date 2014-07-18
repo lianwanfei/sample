@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:18
+-keep class com.dingmore.sample.DingmoreChildActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:10
+-keep class com.dingmore.sample.DingmoreParentsActivity { <init>(...); }
+
