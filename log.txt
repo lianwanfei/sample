@@ -8,7 +8,7 @@
             "parentName":"¹ã¶«ÔÁ²Ë",
             "url":"http://www.chinacaipu.com/d/file/menu/guangdongecai/2014-07-11/905796675f826e13e4048f1c382a36ac.jpg"
         },
-        {111
+        {
             "id":1,
             "name":"Ïã¼åÒø÷¨Óã",
             "parentId":"1",
