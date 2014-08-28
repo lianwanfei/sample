@@ -1,0 +1,1 @@
+###{'retcode':0,'menu_list':[{'code':10000,'name':'²ö×ìÅ£ÍÜ','dineamount':12,'takeawayamount':2,'interval':30,'createdatetime':'2013-11-07 11:07:30'},{'code':10001,'name':'ÇåÕôÍğÓã','dineamount':12,'takeawayamount':2,'interval':30,'createdatetime':'2013-11-07 11:07:30'}]}###
